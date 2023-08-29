@@ -1,2 +1,3 @@
 # Movie_recommender_System
-content based movie recommender system.
+It is content based movie recommender system using cosine similarity.
+
